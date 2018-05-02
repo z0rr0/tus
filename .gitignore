@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# dev settings
+db.sqlite3
+static/*
+tus/local_settings.py
+media/images/*
