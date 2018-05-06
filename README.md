@@ -39,7 +39,7 @@ python manage.py collectstatic --noinput
 ### 5. Run develop server
 
 ```
-python manager.py runserver
+python manage.py runserver
 ```
 
 Open address `http://127.0.0.1:8000/`.
